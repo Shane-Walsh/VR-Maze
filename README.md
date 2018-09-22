@@ -1,4 +1,4 @@
-# VR-Maze-
+# VR-Maze
 A mobile VR maze scene for iPhone
 
 ![temple](https://cloud.githubusercontent.com/assets/20372577/23081626/963163ae-f54d-11e6-97e8-0875a15a4d3d.png)
